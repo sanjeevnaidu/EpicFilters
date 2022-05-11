@@ -49,4 +49,5 @@ dependencies {
 
     //Gallery implementation
     implementation 'com.github.dhaval2404:imagepicker:2.1'
+    //implementation 'com.github.dhaval2404:imagepicker-support:1.7.1'
 }
