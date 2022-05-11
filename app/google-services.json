@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808794314614",
+    "project_id": "epic-filters",
+    "storage_bucket": "epic-filters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808794314614:android:4c490b7cb21cda64570c57",
+        "android_client_info": {
+          "package_name": "com.startup.epicfilters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808794314614-1u3vbk93qrn90rnkb65q04p49j59dhsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4-sG7fcckfu1bXIk0gvoEtZF5G7n3S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808794314614-1u3vbk93qrn90rnkb65q04p49j59dhsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

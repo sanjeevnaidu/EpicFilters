@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Epic Filters</string>
+    <string name="original_image">original_image</string>
+    <string name="filters">Filters</string>
+    <string name="bwFilter">bwFilter</string>
+    <string name="blurFilter">blurFilter</string>
+    <string name="thresholdFilter">thresholdFilter</string>
+    <string name="black_white"><![CDATA[Black & White]]></string>
+    <string name="blur">Blur</string>
+    <string name="threshold">Threshold</string>
+    <string name="upload">Upload</string>
+    <string name="submit">Submit</string>
+</resources>
